@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630011020745",
+    "project_id": "thananya-23",
+    "storage_bucket": "thananya-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630011020745:android:a609f2ea3daeeed9a3d418",
+        "android_client_info": {
+          "package_name": "com.example.a01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630011020745-q4jroajahj140s54dhbojgki938hhjau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoeIBvf6WTzk8eUbufwb-_vyJU35SMuQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630011020745-q4jroajahj140s54dhbojgki938hhjau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
